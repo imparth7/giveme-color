@@ -1,6 +1,6 @@
 {
   "name": "giveme-color",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Giveme Color is random color generator package.Everytimes it return new random colors and co[py to your clipboard.",
   "main": "index.js",
   "scripts": {
